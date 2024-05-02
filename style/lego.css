@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+
+
+
+
+body{
+background-color: indigo;
+color:white
+}
+
+.title{
+    color: aquamarine;
+}
+
+.title-blog{
+    color:black
+}
+
+.rodape{
+    color: black;
+    background-color: #22D4FD;
+    font-family: 'Monsserrat', sans-serif;
+    padding: 24px;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+
+
+
+}
